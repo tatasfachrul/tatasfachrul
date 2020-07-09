@@ -2,12 +2,15 @@
 
 I'm Software Engineer based in Jakarta, Indonesia 🇮🇩.
 
-
-🌱 Currently learning about GoLang.
-
 I do some side job ocasionally. If you need to built app with Javascript oriented framework/library like Express, React Native you come to right place 🎯 
 
+### My Goal for 2020
+🌱 Currently learning about GoLang.
+
+### Get in touch with me
 ☕️ wanna chat? 👉 @ me on [Twitter](https://twitter.com/tastasss) 
+
+💼 work related things, send to tatasfachrul@gmail.com
 
 
 <!--
