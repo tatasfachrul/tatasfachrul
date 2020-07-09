@@ -2,7 +2,7 @@
 
 I'm Software Engineer based in Jakarta, Indonesia 🇮🇩.
 
-I do some side job ocasionally. If you need to built app with Javascript oriented framework/library like Express, React Native you come to right place 🎯 
+I do some side job ocasionally. If you need to built app with Javascript oriented framework/library like `Express`, `React Native` you come to the right place 🎯 
 
 ### My Goal for 2020
 🌱 Currently learning about GoLang.
