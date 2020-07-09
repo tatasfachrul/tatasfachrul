@@ -11,7 +11,7 @@ I do some side job ocasionally. If you need to built app with Javascript oriente
 # 
 ☕️ wanna chat? 👉 @ me on [Twitter](https://twitter.com/tastasss) 
 
-💼 want to collaborate? 📬 me on tatasfachrul@gmail.com
+💼 wanna collaborate? 📬 me on tatasfachrul@gmail.com
 
 
 <!--
