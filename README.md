@@ -8,9 +8,10 @@ I do some side job ocasionally. If you need to built app with Javascript oriente
 🌱 Currently learning about GoLang.
 
 
-#### ☕️ wanna chat? 👉 @ me on [Twitter](https://twitter.com/tastasss) 
+# 
+☕️ wanna chat? 👉 @ me on [Twitter](https://twitter.com/tastasss) 
 
-#### 💼 work related things, send to tatasfachrul@gmail.com
+💼 want to collaborate? mail me tatasfachrul@gmail.com
 
 
 <!--
