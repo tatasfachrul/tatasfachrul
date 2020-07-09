@@ -1,6 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm software engineer based in Indonesia. 
+I'm Software Engineer based in Jakarta, Indonesia 🇮🇩.
+
+
+🌱 Currently learning about GoLang.
+
+I do some side job ocasionally. If you need to built app with Javascript oriented framework/library like Express, React Native you come to right place 🎯 
+
+☕️ wanna chat? 👉 @ me on [Twitter](https://twitter.com/tastasss) 
 
 
 <!--
