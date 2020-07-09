@@ -7,10 +7,10 @@ I do some side job ocasionally. If you need to built app with Javascript oriente
 ### My Goal for 2020
 🌱 Currently learning about GoLang.
 
-### Get in touch with me
-☕️ wanna chat? 👉 @ me on [Twitter](https://twitter.com/tastasss) 
 
-💼 work related things, send to tatasfachrul@gmail.com
+#### ☕️ wanna chat? 👉 @ me on [Twitter](https://twitter.com/tastasss) 
+
+#### 💼 work related things, send to tatasfachrul@gmail.com
 
 
 <!--
