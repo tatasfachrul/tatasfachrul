@@ -13,6 +13,9 @@ I do some side job ocasionally. If you need to built app with Javascript oriente
 
 💼 wanna collaborate? 📬 me on tatasfachrul@gmail.com
 
+[![Tatas Fachrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatasfachrul&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **tatasfachrul/tatasfachrul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
