@@ -13,7 +13,7 @@ I do some side job ocasionally. If you need to built app with Javascript oriente
 
 💼 wanna collaborate? 📬 me on tatasfachrul@gmail.com
 
-[![Tatas Fachrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatasfachrul&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tatas Fachrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatasfachrul&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
