@@ -13,14 +13,15 @@ I do some side job ocasionally. If you need to built app with Javascript oriente
 
 💼 wanna collaborate? 📬 me on tatasfachrul@gmail.com
 
-<p align="center">
 
-[![Tatas Fachrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatasfachrul&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tatasfachrul&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</p>
-
+<div align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tatasfachrul&count_private=true&show_icons=true&theme=dracula"></a>
+  
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatasfachrul&theme=dracula"></a>
+  
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=tatasfachrul&row=3&column=3&theme=onedark"></a>
+</div>
 <!--
 **tatasfachrul/tatasfachrul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
